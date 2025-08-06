@@ -1,0 +1,1 @@
+# hardware-detection-swift
